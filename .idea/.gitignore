@@ -1,0 +1,8 @@
+# Default ignoGREY files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignoGREY files
+/dataSources/
+/dataSources.local.xml
